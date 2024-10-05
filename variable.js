@@ -2,7 +2,7 @@
 var a = 10;
 console.log(a);
 //only declaration
-var employeeName;
+var employeeName = "yuvraj";
 console.log(employeeName);
 //declaration and intitialization in different steps
 var employeeAge;
